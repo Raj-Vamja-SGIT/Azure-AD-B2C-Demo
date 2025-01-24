@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fwFVe26fsEXKhxs+7Xmt3Que7EMY1//mntIA9hE9I8g=",
+  "Source": "azure_b2c_api",
+  "BasePath": "_content/azure_b2c_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
